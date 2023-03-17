@@ -2558,7 +2558,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   color: #fff;
-  background: url("../img/TrueLevel/31.jpg") center no-repeat;
+  background: url("./assets/css/img/TrueLevel/31.jpg") center no-repeat;
   background-size: cover;
   font-size: 12px;
   padding: 80px 0 60px 0;
